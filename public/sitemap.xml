@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <!-- Homepage -->
+    <url>
+        <loc>https://sekararumhomestay.com/</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://sekararumhomestay.com/"/>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/id</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en"/>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/en</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en"/>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Rooms Page -->
+    <url>
+        <loc>https://sekararumhomestay.com/id/rooms</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/rooms"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/rooms"/>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/en/rooms</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/rooms"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/rooms"/>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Room Details (Merapi View Villa) -->
+    <url>
+        <loc>https://sekararumhomestay.com/id/rooms/merapi-view-villa</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/rooms/merapi-view-villa"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/rooms/merapi-view-villa"/>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/en/rooms/merapi-view-villa</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/rooms/merapi-view-villa"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/rooms/merapi-view-villa"/>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Facilities Page -->
+    <url>
+        <loc>https://sekararumhomestay.com/id/facilities</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/facilities"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/facilities"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/en/facilities</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/facilities"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/facilities"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Gallery Page -->
+    <url>
+        <loc>https://sekararumhomestay.com/id/gallery</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/gallery"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/gallery"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/en/gallery</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/gallery"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/gallery"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Attractions Page -->
+    <url>
+        <loc>https://sekararumhomestay.com/id/attractions</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/attractions"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/attractions"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/en/attractions</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/attractions"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/attractions"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- About Page -->
+    <url>
+        <loc>https://sekararumhomestay.com/id/about</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/about"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/about"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/en/about</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/about"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/about"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Contact Page -->
+    <url>
+        <loc>https://sekararumhomestay.com/id/contact</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/contact"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/contact"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sekararumhomestay.com/en/contact</loc>
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://sekararumhomestay.com/id/contact"/>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://sekararumhomestay.com/en/contact"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

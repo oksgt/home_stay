@@ -7,6 +7,9 @@
     <!-- Primary Meta Tags -->
     <title inertia>{{ config('app.name', 'Sekar Arum Homestay Sleman') }}</title>
     
+    <!-- Custom Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231A3326'/><path d='M30 30 Q50 15 70 30 Q50 50 30 70 Q50 85 70 70' fill='none' stroke='%23C5A028' stroke-width='8' stroke-linecap='round'/></svg>">
+    
     <!-- Google Fonts: Playfair Display & Plus Jakarta Sans -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

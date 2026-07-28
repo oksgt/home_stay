@@ -1,63 +1,63 @@
 {
-  "_LeafletMap-Whu9sCY6.js": {
-    "file": "assets/LeafletMap-Whu9sCY6.js",
+  "_LeafletMap-Y9LaX5HL.js": {
+    "file": "assets/LeafletMap-Y9LaX5HL.js",
     "name": "LeafletMap",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_SEOHead-BsfnA8Pj.js": {
-    "file": "assets/SEOHead-BsfnA8Pj.js",
+  "_SEOHead-KKGhgAQJ.js": {
+    "file": "assets/SEOHead-KKGhgAQJ.js",
     "name": "SEOHead",
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js"
+      "_createLucideIcon-CTzVy92N.js"
     ]
   },
-  "_arrow-up-right-dPCLNNRM.js": {
-    "file": "assets/arrow-up-right-dPCLNNRM.js",
+  "_arrow-up-right-hHAouIMd.js": {
+    "file": "assets/arrow-up-right-hHAouIMd.js",
     "name": "arrow-up-right",
     "imports": [
-      "_createLucideIcon-Bv_Z1ygI.js"
+      "_createLucideIcon-CTzVy92N.js"
     ]
   },
-  "_check-l6IimWZD.js": {
-    "file": "assets/check-l6IimWZD.js",
+  "_check-CXsRAhGi.js": {
+    "file": "assets/check-CXsRAhGi.js",
     "name": "check",
     "imports": [
-      "_createLucideIcon-Bv_Z1ygI.js"
+      "_createLucideIcon-CTzVy92N.js"
     ]
   },
-  "_createLucideIcon-Bv_Z1ygI.js": {
-    "file": "assets/createLucideIcon-Bv_Z1ygI.js",
+  "_createLucideIcon-CTzVy92N.js": {
+    "file": "assets/createLucideIcon-CTzVy92N.js",
     "name": "createLucideIcon",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_star-BOkgY6cR.js": {
-    "file": "assets/star-BOkgY6cR.js",
+  "_star-C6taXV-P.js": {
+    "file": "assets/star-C6taXV-P.js",
     "name": "star",
     "imports": [
-      "_createLucideIcon-Bv_Z1ygI.js"
+      "_createLucideIcon-CTzVy92N.js"
     ]
   },
-  "_trees-DfOdcIpd.js": {
-    "file": "assets/trees-DfOdcIpd.js",
+  "_trees-BZCjJD0K.js": {
+    "file": "assets/trees-BZCjJD0K.js",
     "name": "trees",
     "imports": [
-      "_createLucideIcon-Bv_Z1ygI.js"
+      "_createLucideIcon-CTzVy92N.js"
     ]
   },
-  "_wind-B0FFQO3N.js": {
-    "file": "assets/wind-B0FFQO3N.js",
+  "_wind-Dw0tzzLB.js": {
+    "file": "assets/wind-Dw0tzzLB.js",
     "name": "wind",
     "imports": [
-      "_createLucideIcon-Bv_Z1ygI.js"
+      "_createLucideIcon-CTzVy92N.js"
     ]
   },
   "resources/css/app.css": {
-    "file": "assets/app-DUCm2GSe.css",
+    "file": "assets/app-LOoNBSCj.css",
     "name": "app",
     "names": [
       "app.css"
@@ -66,121 +66,121 @@
     "isEntry": true
   },
   "resources/js/Pages/Admin/Dashboard.jsx": {
-    "file": "assets/Dashboard-BHsYdayW.js",
+    "file": "assets/Dashboard-DP-ETZgd.js",
     "name": "Dashboard",
     "src": "resources/js/Pages/Admin/Dashboard.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_star-BOkgY6cR.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_star-C6taXV-P.js"
     ]
   },
   "resources/js/Pages/Frontend/About.jsx": {
-    "file": "assets/About-qXUFj6ZI.js",
+    "file": "assets/About-CtsQkrDx.js",
     "name": "About",
     "src": "resources/js/Pages/Frontend/About.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_SEOHead-BsfnA8Pj.js",
-      "_trees-DfOdcIpd.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_SEOHead-KKGhgAQJ.js",
+      "_trees-BZCjJD0K.js"
     ]
   },
   "resources/js/Pages/Frontend/Attractions.jsx": {
-    "file": "assets/Attractions-BmpFiMTu.js",
+    "file": "assets/Attractions-BrTAPEJq.js",
     "name": "Attractions",
     "src": "resources/js/Pages/Frontend/Attractions.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_arrow-up-right-dPCLNNRM.js",
-      "_SEOHead-BsfnA8Pj.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_arrow-up-right-hHAouIMd.js",
+      "_SEOHead-KKGhgAQJ.js"
     ]
   },
   "resources/js/Pages/Frontend/Contact.jsx": {
-    "file": "assets/Contact-Y6aFU54D.js",
+    "file": "assets/Contact-GzbtWs9D.js",
     "name": "Contact",
     "src": "resources/js/Pages/Frontend/Contact.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_SEOHead-BsfnA8Pj.js",
-      "_LeafletMap-Whu9sCY6.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_SEOHead-KKGhgAQJ.js",
+      "_LeafletMap-Y9LaX5HL.js"
     ]
   },
   "resources/js/Pages/Frontend/Facilities.jsx": {
-    "file": "assets/Facilities-zKml2Bvu.js",
+    "file": "assets/Facilities-B4_5hom5.js",
     "name": "Facilities",
     "src": "resources/js/Pages/Frontend/Facilities.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_wind-B0FFQO3N.js",
-      "_check-l6IimWZD.js",
-      "_SEOHead-BsfnA8Pj.js",
-      "_trees-DfOdcIpd.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_wind-Dw0tzzLB.js",
+      "_check-CXsRAhGi.js",
+      "_SEOHead-KKGhgAQJ.js",
+      "_trees-BZCjJD0K.js"
     ]
   },
   "resources/js/Pages/Frontend/Gallery.jsx": {
-    "file": "assets/Gallery-BY1xrRht.js",
+    "file": "assets/Gallery-CyQeJny4.js",
     "name": "Gallery",
     "src": "resources/js/Pages/Frontend/Gallery.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_SEOHead-BsfnA8Pj.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_SEOHead-KKGhgAQJ.js"
     ]
   },
   "resources/js/Pages/Frontend/Home.jsx": {
-    "file": "assets/Home-CWk5M1Fe.js",
+    "file": "assets/Home-D9xC4mbU.js",
     "name": "Home",
     "src": "resources/js/Pages/Frontend/Home.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_arrow-up-right-dPCLNNRM.js",
-      "_wind-B0FFQO3N.js",
-      "_check-l6IimWZD.js",
-      "_SEOHead-BsfnA8Pj.js",
-      "_star-BOkgY6cR.js",
-      "_trees-DfOdcIpd.js",
-      "_LeafletMap-Whu9sCY6.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_arrow-up-right-hHAouIMd.js",
+      "_wind-Dw0tzzLB.js",
+      "_check-CXsRAhGi.js",
+      "_SEOHead-KKGhgAQJ.js",
+      "_star-C6taXV-P.js",
+      "_trees-BZCjJD0K.js",
+      "_LeafletMap-Y9LaX5HL.js"
     ]
   },
   "resources/js/Pages/Frontend/Rooms/Index.jsx": {
-    "file": "assets/Index-2F_s2sAL.js",
+    "file": "assets/Index-DzC_GRKf.js",
     "name": "Index",
     "src": "resources/js/Pages/Frontend/Rooms/Index.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_arrow-up-right-dPCLNNRM.js",
-      "_check-l6IimWZD.js",
-      "_SEOHead-BsfnA8Pj.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_arrow-up-right-hHAouIMd.js",
+      "_check-CXsRAhGi.js",
+      "_SEOHead-KKGhgAQJ.js"
     ]
   },
   "resources/js/Pages/Frontend/Rooms/Show.jsx": {
-    "file": "assets/Show-4WbbZCIs.js",
+    "file": "assets/Show-BsmaXa0X.js",
     "name": "Show",
     "src": "resources/js/Pages/Frontend/Rooms/Show.jsx",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.jsx",
-      "_createLucideIcon-Bv_Z1ygI.js",
-      "_check-l6IimWZD.js",
-      "_SEOHead-BsfnA8Pj.js"
+      "_createLucideIcon-CTzVy92N.js",
+      "_check-CXsRAhGi.js",
+      "_SEOHead-KKGhgAQJ.js"
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-BmHd0HAO.js",
+    "file": "assets/app-8gaeu9oW.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
@@ -196,7 +196,7 @@
       "resources/js/Pages/Frontend/Rooms/Show.jsx"
     ],
     "css": [
-      "assets/app-DUCm2GSe.css"
+      "assets/app-LOoNBSCj.css"
     ]
   }
 }
